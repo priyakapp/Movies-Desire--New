@@ -11,8 +11,7 @@ class script(object):
 
     ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
 ✯ ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/pro_morningstar>pro morningstar</a>
-✯ ᴛʜᴀɴᴋs ᴛᴏ: <a href=https://t.me/creatorbeatz>Jᴏᴇʟ ᴛɢx</a>
-✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <a href=https://t.me/psycho_association>ᴘsʏᴄʜᴏ ɴᴇᴛᴡᴏʀᴋ</a>
+✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <a href=https://t.me/Movies_Unloaded_Backup>Movies Unloaded</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ:  ᴘʏᴛʜᴏɴ 𝟹
 ✯ ᴅᴀᴛᴀ ʙᴀsᴇ: ᴍᴀɴɢᴏ ᴅʙ
@@ -20,18 +19,17 @@ class script(object):
 ✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v2.0.1 [ ʙᴇᴛᴀ ]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-<b>-  ᴩʜуꜱᴄᴏ ɪs ᴀɴ ᴀɴɪᴍᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴡʜɪᴄʜ ɪs ᴀ sᴇʀᴠɪᴄᴇ ᴘʀᴏᴠɪᴅɪɴɢ ɴᴇᴛᴡᴏʀᴋ ғᴏʀ ᴀɴɪᴍᴇ ʀᴇʟᴀᴛᴇᴅ sᴛᴜғғs ᴀᴄʀᴏss ᴅɪғғᴇʀᴇɴᴛ ᴘʟᴀᴛғᴏʀᴍs. ɪᴛ ɪs ᴀ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴍᴀᴅᴇ ғᴏʀ ʀᴀɪsɪɴɢ ᴜᴘ ᴏғ ᴀɴɪᴍᴇ ᴄᴏɴᴛᴇɴᴛ ɪɴ ɪɴᴅɪᴀ.. 
-- ɴᴇᴛᴡᴏʀᴋ - ᴄʟɪᴄᴋ ʜᴇʀᴇ ɴᴇᴛᴡᴏʀᴋ ʙᴜᴛᴛᴏɴ</b>
+<b>-  
 
 <b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ -</b>
-- <a href=https://t.me/psycho_association>ᴘsʏᴄʜᴏ ɴᴇᴛᴡᴏʀᴋ</a>"""
+- <a href=https://t.meMovies_Unloded>ᴘsʏᴄʜᴏ ɴᴇᴛᴡᴏʀᴋ</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-<b>- 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚆𝙴𝚁𝙴 𝚄𝚂𝙴𝚁𝚂 𝙲𝙰𝙽 𝚂𝙴𝚃 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙴𝙳 𝚁𝙴𝙿𝙻𝙸𝙴𝚂 𝙵𝙾𝚁 𝙰 𝙿𝙰𝚁𝚃𝙸𝙲𝚄𝙻𝙰𝚁 𝙺𝙴𝚈𝚆𝙾𝚁𝙳 𝙰𝙽𝙳 𝙴𝙻𝚂𝙰 𝚆𝙸𝙻𝙻 𝚁𝙴𝚂𝙿𝙾𝙽𝙳 𝚆𝙷𝙴𝙽𝙴𝚅𝙴𝚁 𝙰 𝙺𝙴𝚈𝚆𝙾𝚁𝙳 𝙸𝚂 𝙵𝙾𝚄𝙽𝙳 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴</b>
+<b>- 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚆𝙴𝚁𝙴 𝚄𝚂𝙴𝚁𝚂 𝙲𝙰𝙽 𝚂𝙴𝚃 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙴𝙳 𝚁𝙴𝙿𝙻𝙸𝙴𝚂 𝙵𝙾𝚁 𝙰 𝙿𝙰𝚁𝚃𝙸𝙲𝚄𝙻𝙰𝚁 𝙺𝙴𝚈𝚆𝙾𝚁𝙳 𝙰𝙽𝙳 MOVIES DESIRE 𝚆𝙸𝙻𝙻 𝚁𝙴𝚂𝙿𝙾𝙽𝙳 𝚆𝙷𝙴𝙽𝙴𝚅𝙴𝚁 𝙰 𝙺𝙴𝚈𝚆𝙾𝚁𝙳 𝙸𝚂 𝙵𝙾𝚄𝙽𝙳 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴</b>
 
 <b>NOTE:</b>
-<b>𝟷. 𝙴𝙻𝚂𝙰 𝚂𝙷𝙾𝚄𝙻𝙳 𝙷𝙰𝚅𝙴 𝙰𝙳𝙼𝙸𝙽 𝙿𝚁𝙸𝚅𝙸𝙻𝙻𝙰𝙶𝙴.
+<b>𝟷. MOVIES DESIRE 𝚂𝙷𝙾𝚄𝙻𝙳 𝙷𝙰𝚅𝙴 𝙰𝙳𝙼𝙸𝙽 𝙿𝚁𝙸𝚅𝙸𝙻𝙻𝙰𝙶𝙴.
 𝟸. 𝙾𝙽𝙻𝚈 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙰𝙽 𝙰𝙳𝙳 𝙵𝙸𝙻𝚃𝙴𝚁𝚂 𝙸𝙽 𝙰 𝙲𝙷𝙰𝚃.
 𝟹. 𝙰𝙻𝙴𝚁𝚃 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝙷𝙰𝚅𝙴 𝙰 𝙻𝙸𝙼𝙸𝚃 𝙾𝙵 𝟼𝟺 𝙲𝙷𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝚂.</b>
 
@@ -43,10 +41,10 @@ class script(object):
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-<b>𝙴𝙻𝚂𝙰 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙱𝙾𝚃𝙷 𝚄𝚁𝙻 𝙰𝙽𝙳 𝙰𝙻𝙴𝚁𝚃 𝙸𝙽𝙻𝙸𝙽𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂.</b>
+<b>MOVIES DESIRE 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙱𝙾𝚃𝙷 𝚄𝚁𝙻 𝙰𝙽𝙳 𝙰𝙻𝙴𝚁𝚃 𝙸𝙽𝙻𝙸𝙽𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂.</b>
 <b>NOTE:</b>
 <b>𝟷. 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝚆𝙸𝙻𝙻 𝙽𝙾𝚃 𝙰𝙻𝙻𝙾𝚆𝚂 𝚈𝙾𝚄 𝚃𝙾 𝚂𝙴𝙽𝙳 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝚆𝙸𝚃𝙷𝙾𝚄𝚃 𝙰𝙽𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝚃, 𝚂𝙾 𝙲𝙾𝙽𝚃𝙴𝙽𝚃 𝙸𝚂 𝙼𝙰𝙽𝙳𝙰𝚃𝙾𝚁𝚈.
-𝟸. 𝙴𝙻𝚂𝙰 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝚆𝙸𝚃𝙷 𝙰𝙽𝚈 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙼𝙴𝙳𝙸𝙰 𝚃𝚈𝙿𝙴.
+𝟸. MOVIES DESIRE 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝚆𝙸𝚃𝙷 𝙰𝙽𝚈 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙼𝙴𝙳𝙸𝙰 𝚃𝚈𝙿𝙴.
 𝟹. 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝚂𝙷𝙾𝚄𝙻𝙳 𝙱𝙴 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈 𝙿𝙰𝚁𝚂𝙴𝙳 𝙰𝚂 𝙼𝙰𝚁𝙺𝙳𝙾𝚆𝙽 𝙵𝙾𝚁𝙼𝙰𝚃</b>
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:https://t.me/Example...)</code>
@@ -83,7 +81,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Elsa
+these are the extra features of MOVIES DESIRE
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
@@ -100,7 +98,7 @@ these are the extra features of Elsa
 ⏭️ /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-@psycho_association"""
+@Movies_Unloded_Backup"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 • 𝘜𝘴𝘢𝘨𝘦
@@ -149,7 +147,7 @@ Do as you wish with telegra.ph module!
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 ➪ /audiobook: 𝖱𝖾𝗉𝗅𝗒 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗈 𝖺𝗇𝗒 𝖯𝖣𝖥 𝗍𝗈 𝗀𝖾𝗇𝖾𝗋𝖺𝗍𝖾 𝗍𝗁𝖾 𝖺𝗎𝖽𝗂𝗈"""
 
-    DEPLOY_TXT= """𝙸𝙵 𝚈𝙾𝚄 𝙵𝙰𝙲𝙸𝙽𝙶 𝙰𝙽𝚈 𝙸𝚂𝚂𝚄𝙴 𝙸𝙽 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴..."""
+
    
     PINGS_TXT = """<b>Ping Testing:</b>
 Helps you to know your ping 🚶🏼‍♂️
@@ -179,7 +177,7 @@ To Get Sticker ID
 <b>COMMAND</b> : /font your text (optional)
         <b> Eg:- /font Hello</b>
 
- <i>This feature added by @psycho_association"""
+ <i>This feature added by @Movies_Unloded_Backup"""
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
 <b>Features:</b>
@@ -252,12 +250,12 @@ This module only works for my admins
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
-@Erika_Amano_Robot
+@movies_desire
 """
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
-@Erika_Amano_Robot
+@movies_desire
 """
     FILE_MSG = """
 <b>Hai 👋 {} </b>😍
@@ -303,11 +301,11 @@ Name - {}
 
 〰️〰️〰️〰️〰️〰️〰️〰️
 ╭───🔅 ᴜᴘʟᴏᴀᴅ ʙʏ 🔅 ────╮
-├• ▫️<a href=https://t.me/Team_Netflix> ᴛᴇᴀᴍ ɴᴇᴛғʟɪx </a>
+├• ▫️<a href=https://t.me/Movies_Unloaded2> Movies Unloded </a>
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️<a href=https://t.me/moviez_community> ᴍᴏᴠɪᴇᴢ ᴄᴏᴍᴍᴜɴɪᴛʏ </a>
+👉🏻 ▫️<a href=https://t.me/movie_request_02> ᴍᴏᴠɪᴇᴢ ᴄᴏᴍᴍᴜɴɪᴛʏ </a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>"""
 
     RESTART_TXT = """
