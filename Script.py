@@ -10,7 +10,7 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
-✯ ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/zeeroworld>ᴍɪʏᴜᴋɪ sᴇɴᴘᴀɪ</a>
+✯ ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/pro_morningstar>pro morningstar</a>
 ✯ ᴛʜᴀɴᴋs ᴛᴏ: <a href=https://t.me/creatorbeatz>Jᴏᴇʟ ᴛɢx</a>
 ✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <a href=https://t.me/psycho_association>ᴘsʏᴄʜᴏ ɴᴇᴛᴡᴏʀᴋ</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
